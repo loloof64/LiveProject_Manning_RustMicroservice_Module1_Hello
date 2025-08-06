@@ -2,4 +2,3 @@
 
 Here the last part of the mentionned article
 ![article screenshot](article.png "article screenshot")
-# LiveProject_Manning_RustMicroservice_Module1_Hello
